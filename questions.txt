@@ -1,0 +1,10 @@
+What is RAG?
+What problem does RAG solve?
+How does retrieval work in RAG?
+What are the benefits of RAG?
+What is similarity search?
+What are embeddings?
+Where is RAG used?
+Describe RAG architecture.
+How does RAG improve factual accuracy?
+What is context injection?

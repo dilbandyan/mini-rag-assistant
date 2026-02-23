@@ -1,0 +1,26 @@
+Definition:
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with generative language models.
+
+Problem:
+Large language models sometimes generate incorrect or outdated information because they rely only on internal training data.
+
+How Retrieval Works:
+RAG retrieves relevant documents from an external knowledge base before generating an answer.
+
+Context Injection:
+The retrieved documents are provided as context to the language model.
+
+Benefits:
+RAG improves factual accuracy and allows models to use external, updated information.
+
+Architecture:
+A typical RAG pipeline includes document storage, vectorization, similarity search, and response generation.
+
+Embeddings:
+Text is converted into numerical vectors called embeddings to measure similarity.
+
+Similarity Search:
+Cosine similarity is commonly used to find the most relevant documents.
+
+Use Cases:
+RAG is used in chatbots, search systems, enterprise knowledge assistants, and question-answering systems.
